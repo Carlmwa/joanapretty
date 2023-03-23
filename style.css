@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: blue;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: arial;
+}
+
+img {
+  
+
+border-radius: 50px;
+  padding: 100px;
+  width: 200px;
+  margin: 0;
+  margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
